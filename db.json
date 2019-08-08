@@ -1,0 +1,26 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "title": "React desde cero",
+            "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+            "price": 30,
+            "profesor": "Jorge Morgado"
+        },
+        {
+            "id": 2,
+            "title": "Go desde cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-07/AuditionDesdeCero.png",
+            "price": 25,
+            "profesor": "Yuaniris Ortíz"
+        },
+        {
+            "id": 3,
+            "title": "Html desde cero",
+            "image": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-03/Redes%20Enrutammiento.png",
+            "price": 15,
+            "profesor": "Carlos Fuentes"
+        }
+        
+    ]
+}
